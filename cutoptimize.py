@@ -9,7 +9,7 @@ debugPrint = False  # print debug info
 printPipes = False  # print pipes created
 richOptimize = True # use new optimize function
 autoCoils= True    # Generate random coils
-autoDefects = False # Create random stell mill induced defects
+autoDefects = False # Create random steel mill induced defects
 autoMillStop = False # Create random mill stops in generated data
 runPrint = 1
 # set to 1 will generate millstops as part of coil creation
